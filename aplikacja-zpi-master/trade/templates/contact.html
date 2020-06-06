@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+{% block content %}
+<html lang="en">
+<head>
+	<title>Contact V10</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" type="text/css" href="../static/style.css">
+
+</head>
+<body>
+
+
+	<div class="container-contact100">
+
+		<div class="wrap-contact100">
+			<form class="contact100-form validate-form">
+				<span class="contact100-form-title">
+					Skontaktuj się z nami!
+				</span>
+
+				<div class="wrap-input100 validate-input" data-validate="Powiedz jak się nazywasz.">
+					<input class="input100" type="text" name="name" placeholder="Imię i nazwisko">
+					<span class="focus-input100"></span>
+				</div>
+
+				<div class="wrap-input100 validate-input" data-validate = "Podaj swój adres email.">
+					<input class="input100" type="text" name="email" placeholder="E-mail">
+					<span class="focus-input100"></span>
+				</div>
+
+				<div class="wrap-input100 validate-input" data-validate = "Treść wiadomości.">
+					<textarea class="input100" name="message" placeholder="Twoja wiadomość"></textarea>
+					<span class="focus-input100"></span>
+				</div>
+
+				<div class="container-contact100-form-btn">
+					<button class="contact100-form-btn">
+						<span>
+							<i class="fa fa-paper-plane-o m-r-6" aria-hidden="true"></i>
+							Wyślij
+						</span>
+
+						
+					</button>
+				</div>
+
+			
+			<span class="contact100-form-alternative">
+					Lub wyślij wiadomość bezpośrednio: </br>
+					kontakt-waluty@adres.pl
+				</span>
+		
+			</form>
+		</div>
+	</div>
+
+
+
+	<div id="dropDownSelect1"></div>
+
+</body>
+</html>
+{% endblock %}

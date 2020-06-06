@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency app ZPI</title>
+    <link rel="stylesheet" href="../static/currency-exchanger.css">
+
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="header">
+            <h1>Uber wydajne kursy walut</h1>
+        </div>
+        <div class="work-container">
+            <div class="charts">tutej bendo wykresy</div>
+            <div class="currencies-container">
+                <div class="current-date"></div>
+                <ul class="currencies"></ul>
+                <div class="add-currency-btn">
+                    <p class="avers">Add Currencies</p>
+                    <img class="revers" src="arrow-up.svg"></img>
+                </div>
+                <div class="add-currency-list-container">
+                    <p class="add-currency-list-header">add currency</p>
+                    <ul id="add-currency-list"></ul>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+
+    </div>
+    <script src="../static/currency-exchanger.js"></script>
+</body>
+
+</html>
+
+{% endblock %}

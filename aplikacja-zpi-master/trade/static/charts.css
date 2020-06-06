@@ -1,0 +1,107 @@
+@font-face {
+    font-family: Ubuntu-Bold;
+    src: url('./fonts/ubuntu/Ubuntu-Bold.ttf'); 
+  }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html{
+    height: 100%;
+    font-family: Ubuntu-Bold, sans-serif;
+    font-size: 14px;
+	line-height: 1.7;
+	color: #666666;
+}
+
+ul, li {
+	margin: 0px;
+	list-style-type: none;
+}
+
+.container-chart {
+    width: 100%;  
+    min-height: 100vh;
+    /* display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 15px;
+    position: relative;
+    background-color: #f2f2f2;
+  }
+
+.wrap-chart {
+    margin-top: 2%;
+    width: 1000px;
+    background: transparent;
+    padding: 10px 0px 20px 0px;
+}
+
+.currency-title {
+    display: block;
+    font-family: Ubuntu-Bold;
+    font-size: 30px;
+    color: #403866;
+    line-height: 1.2;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+
+  .chart{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+}
+#igraph{
+    width: 100%;
+    height: 500px;
+    border: 2px solid #827ffe;
+    border-radius: 31px;
+}
+ 
+  .choice-field{
+    width: 100%;  
+    /* display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background-color: #f2f2f2;
+  }
+
+  .currency-selector, .currency-value {
+    display: block;
+    width: 50%;
+    height: 70px;
+    background: #fff;
+    border-radius: 31px;
+    font-family: Ubuntu-Bold;
+    font-size: 20px;
+    color: #747491;
+    line-height: 1.5;
+    padding: 20px;
+    text-align: center;
+    transition: .3s;
+  }
+  
+  .currency-selector{
+      margin-right: 5%
+  }
+
+  
+

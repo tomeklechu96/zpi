@@ -1,0 +1,632 @@
+{
+  "table": "A",
+  "currency": "funt szterling",
+  "code": "GBP",
+  "rates": [
+    {
+      "no": "1/A/NBP/2012",
+      "effectiveDate": "2012-01-02",
+      "mid": 5.348
+    },
+    {
+      "no": "2/A/NBP/2012",
+      "effectiveDate": "2012-01-03",
+      "mid": 5.3394
+    },
+    {
+      "no": "3/A/NBP/2012",
+      "effectiveDate": "2012-01-04",
+      "mid": 5.3712
+    },
+    {
+      "no": "4/A/NBP/2012",
+      "effectiveDate": "2012-01-05",
+      "mid": 5.4616
+    },
+    {
+      "no": "5/A/NBP/2012",
+      "effectiveDate": "2012-01-09",
+      "mid": 5.4269
+    },
+    {
+      "no": "6/A/NBP/2012",
+      "effectiveDate": "2012-01-10",
+      "mid": 5.4328
+    },
+    {
+      "no": "7/A/NBP/2012",
+      "effectiveDate": "2012-01-11",
+      "mid": 5.4027
+    },
+    {
+      "no": "8/A/NBP/2012",
+      "effectiveDate": "2012-01-12",
+      "mid": 5.3576
+    },
+    {
+      "no": "9/A/NBP/2012",
+      "effectiveDate": "2012-01-13",
+      "mid": 5.2711
+    },
+    {
+      "no": "10/A/NBP/2012",
+      "effectiveDate": "2012-01-16",
+      "mid": 5.3324
+    },
+    {
+      "no": "11/A/NBP/2012",
+      "effectiveDate": "2012-01-17",
+      "mid": 5.2584
+    },
+    {
+      "no": "12/A/NBP/2012",
+      "effectiveDate": "2012-01-18",
+      "mid": 5.2241
+    },
+    {
+      "no": "13/A/NBP/2012",
+      "effectiveDate": "2012-01-19",
+      "mid": 5.1996
+    },
+    {
+      "no": "14/A/NBP/2012",
+      "effectiveDate": "2012-01-20",
+      "mid": 5.1839
+    },
+    {
+      "no": "15/A/NBP/2012",
+      "effectiveDate": "2012-01-23",
+      "mid": 5.1872
+    },
+    {
+      "no": "16/A/NBP/2012",
+      "effectiveDate": "2012-01-24",
+      "mid": 5.1224
+    },
+    {
+      "no": "17/A/NBP/2012",
+      "effectiveDate": "2012-01-25",
+      "mid": 5.1385
+    },
+    {
+      "no": "18/A/NBP/2012",
+      "effectiveDate": "2012-01-26",
+      "mid": 5.0588
+    },
+    {
+      "no": "19/A/NBP/2012",
+      "effectiveDate": "2012-01-27",
+      "mid": 5.0551
+    },
+    {
+      "no": "20/A/NBP/2012",
+      "effectiveDate": "2012-01-30",
+      "mid": 5.0816
+    },
+    {
+      "no": "21/A/NBP/2012",
+      "effectiveDate": "2012-01-31",
+      "mid": 5.0496
+    },
+    {
+      "no": "22/A/NBP/2012",
+      "effectiveDate": "2012-02-01",
+      "mid": 5.0285
+    },
+    {
+      "no": "23/A/NBP/2012",
+      "effectiveDate": "2012-02-02",
+      "mid": 5.059
+    },
+    {
+      "no": "24/A/NBP/2012",
+      "effectiveDate": "2012-02-03",
+      "mid": 5.0469
+    },
+    {
+      "no": "25/A/NBP/2012",
+      "effectiveDate": "2012-02-06",
+      "mid": 5.0494
+    },
+    {
+      "no": "26/A/NBP/2012",
+      "effectiveDate": "2012-02-07",
+      "mid": 5.0338
+    },
+    {
+      "no": "27/A/NBP/2012",
+      "effectiveDate": "2012-02-08",
+      "mid": 5.006
+    },
+    {
+      "no": "28/A/NBP/2012",
+      "effectiveDate": "2012-02-09",
+      "mid": 4.9879
+    },
+    {
+      "no": "29/A/NBP/2012",
+      "effectiveDate": "2012-02-10",
+      "mid": 5.0216
+    },
+    {
+      "no": "30/A/NBP/2012",
+      "effectiveDate": "2012-02-13",
+      "mid": 4.9968
+    },
+    {
+      "no": "31/A/NBP/2012",
+      "effectiveDate": "2012-02-14",
+      "mid": 5.0054
+    },
+    {
+      "no": "32/A/NBP/2012",
+      "effectiveDate": "2012-02-15",
+      "mid": 4.9669
+    },
+    {
+      "no": "33/A/NBP/2012",
+      "effectiveDate": "2012-02-16",
+      "mid": 5.0953
+    },
+    {
+      "no": "34/A/NBP/2012",
+      "effectiveDate": "2012-02-17",
+      "mid": 5.0416
+    },
+    {
+      "no": "35/A/NBP/2012",
+      "effectiveDate": "2012-02-20",
+      "mid": 5.0114
+    },
+    {
+      "no": "36/A/NBP/2012",
+      "effectiveDate": "2012-02-21",
+      "mid": 4.9913
+    },
+    {
+      "no": "37/A/NBP/2012",
+      "effectiveDate": "2012-02-22",
+      "mid": 4.9682
+    },
+    {
+      "no": "38/A/NBP/2012",
+      "effectiveDate": "2012-02-23",
+      "mid": 4.9325
+    },
+    {
+      "no": "39/A/NBP/2012",
+      "effectiveDate": "2012-02-24",
+      "mid": 4.9167
+    },
+    {
+      "no": "40/A/NBP/2012",
+      "effectiveDate": "2012-02-27",
+      "mid": 4.9415
+    },
+    {
+      "no": "41/A/NBP/2012",
+      "effectiveDate": "2012-02-28",
+      "mid": 4.913
+    },
+    {
+      "no": "42/A/NBP/2012",
+      "effectiveDate": "2012-02-29",
+      "mid": 4.8973
+    },
+    {
+      "no": "43/A/NBP/2012",
+      "effectiveDate": "2012-03-01",
+      "mid": 4.9186
+    },
+    {
+      "no": "44/A/NBP/2012",
+      "effectiveDate": "2012-03-02",
+      "mid": 4.9423
+    },
+    {
+      "no": "45/A/NBP/2012",
+      "effectiveDate": "2012-03-05",
+      "mid": 4.9559
+    },
+    {
+      "no": "46/A/NBP/2012",
+      "effectiveDate": "2012-03-06",
+      "mid": 4.9787
+    },
+    {
+      "no": "47/A/NBP/2012",
+      "effectiveDate": "2012-03-07",
+      "mid": 4.9788
+    },
+    {
+      "no": "48/A/NBP/2012",
+      "effectiveDate": "2012-03-08",
+      "mid": 4.9395
+    },
+    {
+      "no": "49/A/NBP/2012",
+      "effectiveDate": "2012-03-09",
+      "mid": 4.9053
+    },
+    {
+      "no": "50/A/NBP/2012",
+      "effectiveDate": "2012-03-12",
+      "mid": 4.9047
+    },
+    {
+      "no": "51/A/NBP/2012",
+      "effectiveDate": "2012-03-13",
+      "mid": 4.9028
+    },
+    {
+      "no": "52/A/NBP/2012",
+      "effectiveDate": "2012-03-14",
+      "mid": 4.9781
+    },
+    {
+      "no": "53/A/NBP/2012",
+      "effectiveDate": "2012-03-15",
+      "mid": 4.9697
+    },
+    {
+      "no": "54/A/NBP/2012",
+      "effectiveDate": "2012-03-16",
+      "mid": 4.981
+    },
+    {
+      "no": "55/A/NBP/2012",
+      "effectiveDate": "2012-03-19",
+      "mid": 4.9657
+    },
+    {
+      "no": "56/A/NBP/2012",
+      "effectiveDate": "2012-03-20",
+      "mid": 4.9642
+    },
+    {
+      "no": "57/A/NBP/2012",
+      "effectiveDate": "2012-03-21",
+      "mid": 4.9443
+    },
+    {
+      "no": "58/A/NBP/2012",
+      "effectiveDate": "2012-03-22",
+      "mid": 5.0065
+    },
+    {
+      "no": "59/A/NBP/2012",
+      "effectiveDate": "2012-03-23",
+      "mid": 4.9837
+    },
+    {
+      "no": "60/A/NBP/2012",
+      "effectiveDate": "2012-03-26",
+      "mid": 4.9592
+    },
+    {
+      "no": "61/A/NBP/2012",
+      "effectiveDate": "2012-03-27",
+      "mid": 4.9434
+    },
+    {
+      "no": "62/A/NBP/2012",
+      "effectiveDate": "2012-03-28",
+      "mid": 4.9497
+    },
+    {
+      "no": "63/A/NBP/2012",
+      "effectiveDate": "2012-03-29",
+      "mid": 4.971
+    },
+    {
+      "no": "064/A/NBP/2012",
+      "effectiveDate": "2012-03-30",
+      "mid": 4.9908
+    },
+    {
+      "no": "065/A/NBP/2012",
+      "effectiveDate": "2012-04-02",
+      "mid": 4.9793
+    },
+    {
+      "no": "066/A/NBP/2012",
+      "effectiveDate": "2012-04-03",
+      "mid": 4.9669
+    },
+    {
+      "no": "067/A/NBP/2012",
+      "effectiveDate": "2012-04-04",
+      "mid": 5.0057
+    },
+    {
+      "no": "068/A/NBP/2012",
+      "effectiveDate": "2012-04-05",
+      "mid": 5.0271
+    },
+    {
+      "no": "069/A/NBP/2012",
+      "effectiveDate": "2012-04-06",
+      "mid": 5.0418
+    },
+    {
+      "no": "070/A/NBP/2012",
+      "effectiveDate": "2012-04-10",
+      "mid": 5.0592
+    },
+    {
+      "no": "071/A/NBP/2012",
+      "effectiveDate": "2012-04-11",
+      "mid": 5.091
+    },
+    {
+      "no": "072/A/NBP/2012",
+      "effectiveDate": "2012-04-12",
+      "mid": 5.0698
+    },
+    {
+      "no": "073/A/NBP/2012",
+      "effectiveDate": "2012-04-13",
+      "mid": 5.058
+    },
+    {
+      "no": "074/A/NBP/2012",
+      "effectiveDate": "2012-04-16",
+      "mid": 5.1148
+    },
+    {
+      "no": "075/A/NBP/2012",
+      "effectiveDate": "2012-04-17",
+      "mid": 5.0862
+    },
+    {
+      "no": "076/A/NBP/2012",
+      "effectiveDate": "2012-04-18",
+      "mid": 5.0995
+    },
+    {
+      "no": "077/A/NBP/2012",
+      "effectiveDate": "2012-04-19",
+      "mid": 5.1183
+    },
+    {
+      "no": "078/A/NBP/2012",
+      "effectiveDate": "2012-04-20",
+      "mid": 5.1242
+    },
+    {
+      "no": "079/A/NBP/2012",
+      "effectiveDate": "2012-04-23",
+      "mid": 5.1457
+    },
+    {
+      "no": "080/A/NBP/2012",
+      "effectiveDate": "2012-04-24",
+      "mid": 5.1552
+    },
+    {
+      "no": "081/A/NBP/2012",
+      "effectiveDate": "2012-04-25",
+      "mid": 5.0952
+    },
+    {
+      "no": "082/A/NBP/2012",
+      "effectiveDate": "2012-04-26",
+      "mid": 5.1171
+    },
+    {
+      "no": "083/A/NBP/2012",
+      "effectiveDate": "2012-04-27",
+      "mid": 5.1244
+    },
+    {
+      "no": "084/A/NBP/2012",
+      "effectiveDate": "2012-04-30",
+      "mid": 5.1295
+    },
+    {
+      "no": "085/A/NBP/2012",
+      "effectiveDate": "2012-05-02",
+      "mid": 5.1228
+    },
+    {
+      "no": "086/A/NBP/2012",
+      "effectiveDate": "2012-05-04",
+      "mid": 5.1557
+    },
+    {
+      "no": "087/A/NBP/2012",
+      "effectiveDate": "2012-05-07",
+      "mid": 5.2104
+    },
+    {
+      "no": "088/A/NBP/2012",
+      "effectiveDate": "2012-05-08",
+      "mid": 5.201
+    },
+    {
+      "no": "089/A/NBP/2012",
+      "effectiveDate": "2012-05-09",
+      "mid": 5.2297
+    },
+    {
+      "no": "090/A/NBP/2012",
+      "effectiveDate": "2012-05-10",
+      "mid": 5.2697
+    },
+    {
+      "no": "091/A/NBP/2012",
+      "effectiveDate": "2012-05-11",
+      "mid": 5.2838
+    },
+    {
+      "no": "092/A/NBP/2012",
+      "effectiveDate": "2012-05-14",
+      "mid": 5.3676
+    },
+    {
+      "no": "093/A/NBP/2012",
+      "effectiveDate": "2012-05-15",
+      "mid": 5.397
+    },
+    {
+      "no": "094/A/NBP/2012",
+      "effectiveDate": "2012-05-16",
+      "mid": 5.4815
+    },
+    {
+      "no": "095/A/NBP/2012",
+      "effectiveDate": "2012-05-17",
+      "mid": 5.4342
+    },
+    {
+      "no": "096/A/NBP/2012",
+      "effectiveDate": "2012-05-18",
+      "mid": 5.4356
+    },
+    {
+      "no": "097/A/NBP/2012",
+      "effectiveDate": "2012-05-21",
+      "mid": 5.3656
+    },
+    {
+      "no": "098/A/NBP/2012",
+      "effectiveDate": "2012-05-22",
+      "mid": 5.3419
+    },
+    {
+      "no": "099/A/NBP/2012",
+      "effectiveDate": "2012-05-23",
+      "mid": 5.4122
+    },
+    {
+      "no": "100/A/NBP/2012",
+      "effectiveDate": "2012-05-24",
+      "mid": 5.4496
+    },
+    {
+      "no": "101/A/NBP/2012",
+      "effectiveDate": "2012-05-25",
+      "mid": 5.4178
+    },
+    {
+      "no": "102/A/NBP/2012",
+      "effectiveDate": "2012-05-28",
+      "mid": 5.417
+    },
+    {
+      "no": "103/A/NBP/2012",
+      "effectiveDate": "2012-05-29",
+      "mid": 5.4419
+    },
+    {
+      "no": "104/A/NBP/2012",
+      "effectiveDate": "2012-05-30",
+      "mid": 5.4701
+    },
+    {
+      "no": "105/A/NBP/2012",
+      "effectiveDate": "2012-05-31",
+      "mid": 5.4858
+    },
+    {
+      "no": "106/A/NBP/2012",
+      "effectiveDate": "2012-06-01",
+      "mid": 5.4686
+    },
+    {
+      "no": "107/A/NBP/2012",
+      "effectiveDate": "2012-06-04",
+      "mid": 5.4417
+    },
+    {
+      "no": "108/A/NBP/2012",
+      "effectiveDate": "2012-06-05",
+      "mid": 5.4208
+    },
+    {
+      "no": "109/A/NBP/2012",
+      "effectiveDate": "2012-06-06",
+      "mid": 5.3662
+    },
+    {
+      "no": "110/A/NBP/2012",
+      "effectiveDate": "2012-06-08",
+      "mid": 5.3285
+    },
+    {
+      "no": "111/A/NBP/2012",
+      "effectiveDate": "2012-06-11",
+      "mid": 5.302
+    },
+    {
+      "no": "112/A/NBP/2012",
+      "effectiveDate": "2012-06-12",
+      "mid": 5.3552
+    },
+    {
+      "no": "113/A/NBP/2012",
+      "effectiveDate": "2012-06-13",
+      "mid": 5.3861
+    },
+    {
+      "no": "114/A/NBP/2012",
+      "effectiveDate": "2012-06-14",
+      "mid": 5.3289
+    },
+    {
+      "no": "115/A/NBP/2012",
+      "effectiveDate": "2012-06-15",
+      "mid": 5.2772
+    },
+    {
+      "no": "116/A/NBP/2012",
+      "effectiveDate": "2012-06-18",
+      "mid": 5.293
+    },
+    {
+      "no": "117/A/NBP/2012",
+      "effectiveDate": "2012-06-19",
+      "mid": 5.3032
+    },
+    {
+      "no": "118/A/NBP/2012",
+      "effectiveDate": "2012-06-20",
+      "mid": 5.2642
+    },
+    {
+      "no": "119/A/NBP/2012",
+      "effectiveDate": "2012-06-21",
+      "mid": 5.2789
+    },
+    {
+      "no": "120/A/NBP/2012",
+      "effectiveDate": "2012-06-22",
+      "mid": 5.3158
+    },
+    {
+      "no": "121/A/NBP/2012",
+      "effectiveDate": "2012-06-25",
+      "mid": 5.3081
+    },
+    {
+      "no": "122/A/NBP/2012",
+      "effectiveDate": "2012-06-26",
+      "mid": 5.3198
+    },
+    {
+      "no": "123/A/NBP/2012",
+      "effectiveDate": "2012-06-27",
+      "mid": 5.3122
+    },
+    {
+      "no": "124/A/NBP/2012",
+      "effectiveDate": "2012-06-28",
+      "mid": 5.349
+    },
+    {
+      "no": "125/A/NBP/2012",
+      "effectiveDate": "2012-06-29",
+      "mid": 5.2896
+    }
+  ]
+}
